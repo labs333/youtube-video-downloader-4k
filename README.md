@@ -2,7 +2,11 @@
 
 Mass **YouTube video downloader**, **YouTube MP4 downloader**, **YouTube MP3 downloader**, **YouTube downloader online**, **YouTube downloader free**, **YouTube video downloader without watermark**, **YouTube video downloader no watermark**, **YouTube video downloader 4K/8K**, **best YouTube downloader HD**.  
 
-![Image](assets/release.png)
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1000" alt="YouTube Video Downloader No Watermark Banner" src="assets/release.png" />
+  </a>
+</div>
 
 ### Modern YouTube Downloader with Advanced Features
 
