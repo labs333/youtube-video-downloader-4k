@@ -19,7 +19,7 @@ Mass **YouTube video downloader**, **YouTube MP4 downloader**, **YouTube MP3 dow
 
 ## 📋 Table of Contents
 - [Features](#-key-features)
-- [Installation](https://github.com/erfukuby/toktube/releases)
+- [Installation](/../../releases)
 - [Usage](#-usage)
 - [Screenshots](showcase/showcase.md)
 - [Contributing](CONTRIBUTING.md)
