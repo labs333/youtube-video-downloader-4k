@@ -115,7 +115,20 @@ Mass **YouTube video downloader**, **YouTube MP4 downloader**, **YouTube MP3 dow
 ### 🔧 Technical Features
 - **FFmpeg Detection**  
   Automatically detects FFmpeg and prompts for setup if missing.
+  
+## Screenshots
 
+### Homepage
+![Image](homepage.png)
+
+### Videopage
+![Image](videopage.png)
+
+### Audiopage
+![Image](audiopage.png)
+
+### History
+![Image](history.png)
 ---
 
 ## ⚙️ Installation
