@@ -119,16 +119,17 @@ Mass **YouTube video downloader**, **YouTube MP4 downloader**, **YouTube MP3 dow
 ## Screenshots
 
 ### Homepage
-![Image](homepage.png)
+![Image](assets/homepage.png)
 
 ### Videopage
-![Image](videopage.png)
+![Image](assets/videopage.png)
 
 ### Audiopage
-![Image](audiopage.png)
+![Image](assets/audiopages.png)
 
 ### History
-![Image](history.png)
+![Image](assets/history.png)
+
 ---
 
 ## ⚙️ Installation
